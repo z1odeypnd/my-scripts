@@ -1,9 +1,11 @@
 #!/bin/bash
-#########################################################
-# IBM WebSphere datasource collector                    #
-#                                                       #
-# Author: Shokhin Andrey                                #
-#########################################################
+###########################################################################
+# IBM WebSphere datasource collector                                      #
+#                                                                         #
+# Author: Shokhin Andrey                                                  #
+#                                                                         #
+# https://github.com/z1odeypnd/my-scripts/tree/master/bash/IBM-WebSphere  #
+###########################################################################
 #
 #
 CUR_DATE="$(date +%F)"
