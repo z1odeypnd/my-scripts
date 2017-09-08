@@ -1,9 +1,12 @@
 #!/bin/bash
-#########################################################
-#                                                       #
-# Start lisneners IBM WebSphere Bus                     #
-#                                                       #
-#########################################################
+###########################################################################
+#                                                                         #
+# Start lisneners IBM WebSphere Bus                                       #
+#                                                                         #
+# Author: Shokhin Andrey                                                  #
+#                                                                         #
+# https://github.com/z1odeypnd/my-scripts/tree/master/bash/IBM-WebSphere  #
+###########################################################################
 
 SCRIPT_DIR="$(cd $(dirname ${0}) && pwd)"
 JYTHON_SCRIPT="${SCRIPT_DIR}/listeners_start.py"
