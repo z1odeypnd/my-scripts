@@ -1,1 +1,1 @@
-# my-scripts
+# My scripts for IBM WebSphere 
